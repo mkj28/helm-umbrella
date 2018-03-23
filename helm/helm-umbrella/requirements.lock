@@ -1,0 +1,6 @@
+dependencies:
+- name: apache
+  repository: https://charts.cloudposse.com/incubator/
+  version: 0.1.3
+digest: sha256:4513a91b1137a6d15e2b56256245bb3075d796d3e7deef7ca25507e4e7166353
+generated: 2018-03-23T09:55:17.68182-07:00
